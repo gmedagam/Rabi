@@ -1,4 +1,4 @@
 Hello
 "this new commit"
 "This is the repo "
-"pull, push "
+"pull, push ,origin "
